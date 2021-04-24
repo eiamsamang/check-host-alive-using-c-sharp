@@ -1,0 +1,15 @@
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/bin/Debug/net5.0/TestHostAlive.deps.json
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/bin/Debug/net5.0/TestHostAlive.runtimeconfig.json
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/bin/Debug/net5.0/TestHostAlive.runtimeconfig.dev.json
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/bin/Debug/net5.0/TestHostAlive.dll
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/bin/Debug/net5.0/ref/TestHostAlive.dll
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/bin/Debug/net5.0/TestHostAlive.pdb
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/obj/Debug/net5.0/TestHostAlive.csprojAssemblyReference.cache
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/obj/Debug/net5.0/TestHostAlive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/obj/Debug/net5.0/TestHostAlive.AssemblyInfoInputs.cache
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/obj/Debug/net5.0/TestHostAlive.AssemblyInfo.cs
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/obj/Debug/net5.0/TestHostAlive.csproj.CoreCompileInputs.cache
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/obj/Debug/net5.0/TestHostAlive.dll
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/obj/Debug/net5.0/ref/TestHostAlive.dll
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/obj/Debug/net5.0/TestHostAlive.pdb
+/Users/chai/Projects/Video_Youtube_Project/TestHostAlive/obj/Debug/net5.0/TestHostAlive.genruntimeconfig.cache
